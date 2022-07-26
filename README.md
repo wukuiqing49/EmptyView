@@ -4,6 +4,8 @@ implementation 'com.github.wukuiqing49:EmptyView:2.0.1'
 
 配置
 
+```
+
 allprojects {
     repositories {
         google()
@@ -11,3 +13,4 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+```
