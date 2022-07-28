@@ -2,6 +2,7 @@ package com.wkq.emptyview
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.MotionEvent
 import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import com.wkq.empty.EmptyView
@@ -31,4 +32,5 @@ class MainActivity : AppCompatActivity() {
             })
         }
     }
+
 }
